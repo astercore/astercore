@@ -8,7 +8,9 @@ body {
 	font-weight: 400;
 	line-height: 1.5;
 	color: #292b2c;
-	background-image: url('../images/gradient-bckgr.png');
+	/* background-image: url('../images/gradient-bckgr.png'); gradient background */
+	background-image: url('https://78.media.tumblr.com/tumblr_m6qyybDaS11qzw1qyo1_500.gif'); /* vaporwave background */
+	/* background-image: url('http://82.228.174.126:8082/mjpg/video.mjpg'); laundry cam backround */
 	background-size: cover;
 	background-repeat:no-repeat;
 
@@ -66,5 +68,6 @@ body {
 	font-family: Verdana;
 	font-size: 45px;
 	color: #fefefe;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
