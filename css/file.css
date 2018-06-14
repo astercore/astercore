@@ -13,6 +13,12 @@ body {
 	/* background-image: url('http://82.228.174.126:8082/mjpg/video.mjpg'); laundry cam backround */
 	background-size: cover;
 	background-repeat:no-repeat;
+	/* watery double background
+	background-image: url(https://78.media.tumblr.com/tumblr_m6qyybDaS11qzw1qyo1_500.gif), url(https://scontent-mxp1-1.cdninstagram.com/vp/fecf598……-15/s640x640/sh0.08/e35/34356209_223852381546468_5449537565537337344_n.jpg);
+    	background-size: cover, 100%;
+    	background-repeat: no-repeat;
+    	background-blend-mode: darken;
+	*/
 
 }
 
